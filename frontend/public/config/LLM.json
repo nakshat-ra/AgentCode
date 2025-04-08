@@ -1,0 +1,12 @@
+{
+    
+    "llm_models":  ["OpenAI", "Groq", "Cerebras"],
+    "tts_providers": {
+      "OpenAi": ["Onyx", "Shimmer"],
+      "Cartesia": ["Indian Woman", "Zia"],
+      "Polly" : ["Kajal"],
+      "ElevenLabs" : ["Aria"] 
+    },
+    "stt_languages": ["English", "Hindi"]
+}
+  

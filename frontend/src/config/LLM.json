@@ -1,0 +1,9 @@
+{
+    "llm_models": ["OpenAI", "Azure", "Anthropic"],
+    "tts_providers": {
+      "ElevenLabs": ["Bella", "Adam"],
+      "Google": ["WaveNet-A", "WaveNet-B"]
+    },
+    "stt_languages": ["English (US)", "Hindi", "English (UK)", "English (India)"]
+  }
+  
